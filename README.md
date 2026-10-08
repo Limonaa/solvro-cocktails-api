@@ -23,7 +23,7 @@ Postępuj zgodnie z poniższymi krokami, aby uruchomić projekt na swoim kompute
 ### 1. Sklonuj repozytorium i przejdź do katalogu projektu
 
 ```bash
-git clone <url-twojego-repozytorium>
+git clone <https://github.com/Limonaa/solvro-cocktails-api>
 cd solvro_rekru
 ```
 
